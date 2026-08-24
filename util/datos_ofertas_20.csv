@@ -1,0 +1,3 @@
+id_orden,lado,id_nodo,kwh,precio
+9901,compra,10,10,2.5
+9902,venta,2,10,2.0
